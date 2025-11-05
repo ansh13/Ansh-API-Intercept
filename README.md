@@ -1,8 +1,8 @@
 **Install Dependencies:**
 
-pip install pan-aisecurity
-pan install pip install google.genai
-pip install streamlit
+pip install pan-aisecurity 
+pan install pip install google.genai 
+pip install streamlit 
 
 **Generate Gemini API key**
 
