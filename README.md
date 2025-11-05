@@ -1,4 +1,5 @@
 **Install Dependencies:**
+
 pip install pan-aisecurity
 pan install pip install google.genai
 pip install streamlit
