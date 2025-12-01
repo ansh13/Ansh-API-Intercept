@@ -6,7 +6,7 @@ pip install streamlit
 
 ***Copy the API Key and change it in API_Intercept.py**
 
-
+export PANW_AI_SEC_API_KEY ='key-value'
 
 **Generate Gemini API key**
 
