@@ -9,9 +9,10 @@ pip install streamlit
 export PANW_AI_SEC_API_KEY ='key-value'
 
 **Generate Gemini API key**
+export GEMINI_API_KEY = 'key-value'
 
 https://aistudio.google.com/u/1/api-keys
-and place the key on same path where scrypts are:
+
 **On MAC:**
 export GEMINI_API_KEY='key-value'
 **On Windows**
