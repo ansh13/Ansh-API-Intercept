@@ -15,8 +15,8 @@ import aisecurity
 # 1. HARDCODED CONFIGURATION (For Troubleshooting Environment Issues)
 HARDCODED_CONFIG = {
     "PANW_AI_SEC_API_KEY": os.environ.get("PANW_AI_SEC_API_KEY", "A1k9XbcdwnimGwVaFjCBulufIB4LCIpAFNNVhdZKzf2iX1iz"),
-    "PAN_REQUEST_PROFILE_NAME": os.environ.get("PAN_REQUEST_PROFILE_NAME", "ansh-security-profile"), 
-    "PAN_RESPONSE_PROFILE_NAME": os.environ.get("PAN_RESPONSE_PROFILE_NAME", "ansh-security-profile-Response"),
+    "PAN_REQUEST_PROFILE_NAME": os.environ.get("PAN_REQUEST_PROFILE_NAME", "AI-Request-Profile"), 
+    "PAN_RESPONSE_PROFILE_NAME": os.environ.get("PAN_RESPONSE_PROFILE_NAME", "AI-Response-Profile"),
 }
 # 2. Retrieve Keys/Profiles
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY") 
