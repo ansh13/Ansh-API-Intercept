@@ -6,7 +6,6 @@ pip install streamlit
 
 
 **Generate Gemini API key**
-export GEMINI_API_KEY = 'key-value'
 
 https://aistudio.google.com/u/1/api-keys
 
