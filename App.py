@@ -15,7 +15,7 @@ st.caption("Enter a prompt below. Your input and the AI's response will be check
 # Text area for user input
 user_prompt = st.text_area("Enter your prompt here:", height=150)
 
-# Button to submit the prompt
+# Button to submit the prompt 13
 if st.button("Run Secure Query"):
     if user_prompt:
         with st.spinner("Running secure LLM pipeline..."):
